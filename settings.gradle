@@ -1,2 +1,5 @@
 rootProject.name = 'test-gradle-project'
+include 'api'
+include 'db'
+include 'service'
 
